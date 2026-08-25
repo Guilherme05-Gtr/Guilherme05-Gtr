@@ -1,7 +1,7 @@
 <h1 align="center"> Guilherme05-GTR </h1>
  
 <p align="center">
-<img src="https://media1.tenor.com/m/iDOHd7qpWhAAAAAd/divider-mandala.gif" width="498">
+
 </p>
  
 <div align="center">
