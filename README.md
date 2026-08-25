@@ -1,16 +1,35 @@
-## Hi there 👋
-
-<!--
-**Guilherme05-Gtr/Guilherme05-Gtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center"> Guilherme05-GTR </h1>
+ 
+<p align="center">
+<img src="https://media1.tenor.com/m/iDOHd7qpWhAAAAAd/divider-mandala.gif" width="498">
+</p>
+ 
+<div align="center">
+ 
+⋆｡°✩ 𝐂ursando Informática para Internet na ETEC Cidade Tiradentes ⋆｡°✩
+ 
+⋆｡°✩ 𝐀prendendo HTML, CSS, JavaScript, MySQL e Python ⋆｡°✩
+ 
+⋆｡°✩ 𝐂ontate-me no email: freitasguilierme0525@gmail.com.br⋆｡°✩
+ 
+</div>
+ 
+<h3 align="center"> Linguagens ᕙ( •̀ ᗜ •́ )ᕗ </h3>
+ 
+<div align="center">
+<img src="https://devicons.io/devicons/icons/python.svg" width=50px>
+<img src="https://devicons.io/devicons/icons/javascript.svg" width=50px>
+<img src="https://devicons.io/devicons/icons/mysql.svg" width=50px>
+<img src="https://devicons.io/devicons/icons/html-5.svg" width=50px>
+<img src="https://devicons.io/devicons/icons/css.svg" width=50px>
+</div>
+ 
+<h3 align="center">Ferramentas ( ദ്ദി˙ᗜ˙)</h3>
+ 
+<div align="center">
+<img src="https://devicons.io/devicons/icons/zorin-os.svg" width=50px>
+<img src="https://devicons.io/devicons/icons/github-icon.svg" width=50px>
+<img src="https://devicons.io/devicons/icons/visual-studio-code.svg" width=50px>
+<img src="https://devicons.io/devicons/icons/mysql.svg" width=50px>
+<img src="https://devicons.io/devicons/icons/brave.svg" width=50px>
+</div>
