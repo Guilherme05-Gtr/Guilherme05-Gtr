@@ -29,4 +29,5 @@
 <img src="https://devicons.io/devicons/icons/github-icon.svg" width=50px>
 <img src="https://devicons.io/devicons/icons/mysql.svg" width=50px>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" width=50px />
+ <img src="https://devicons.io/devicons/icons/visual-studio-code.svg" width=50px>
 </div>
