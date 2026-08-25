@@ -8,7 +8,7 @@
  
 ⋆｡°✩ 𝐂ursando Informática para Internet na ETEC Cidade Tiradentes ⋆｡°✩
  
-⋆｡°✩ 𝐀prendendo HTML, CSS, JavaScript, MySQL e Python ⋆｡°✩
+⋆｡°✩ 𝐀prendendo HTML, CSS, JavaScript, MySQL ⋆｡°✩
  
 ⋆｡°✩ 𝐂ontate-me no email: freitasguilierme0525@gmail.com.br⋆｡°✩
  
