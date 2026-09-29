@@ -1,33 +1,38 @@
-<h1 align="center"> Guilherme05-GTR </h1>
- 
-<p align="center">
+<h1 align="center"> ‧₊˚♪ 𝄞₊˚⊹ Guilherme </h1>
+<h4 align="center"> "Em um mundo cheio de ódio, devemos ousar esperar. Em um mundo cheio de raiva, devemos ousar consolar" </h4>
+<div width=30px>
+                                  
+                                                                          .....:+=---+*+=+:.        
+                                                                   ......==-----*#**-....           
+                                                               .@@=#**#*--=*====+#*+-:.             
+                                                             .=:...*%**##%=...#==*%##..             
+                                                            .=-=:....+%##%-   .......               
+                   .+*+=-*-::::=.                         .*.:..:--..:-@@:                          
+                 .:*+%*=+#+:.%:.:..                     .-::....:.#:::-=.                           
+               .:==+*#+=+-:.:...#@----:               .:=::::-+=:::+--.                             
+             .:===+-*+%:::....#@@@-...:             .:++=:..:..::---                                
+         ....-==+=+..=@@@@@*@@@@%-..==.    :.. ....::........:--=:..                                
+        ..%#*=+@=.+@%+#@@@@%+-..:*%@#+. .=-==*+**:-=.:....:---+.                                    
+        .::#*#%%@@*::::......++%%@%@@..+-:=..:...::.:.:*#+-:*.                                      
+       .-:..-%@#-#.:++=--=**+=+=+@@@@#--::+..::..:.....:-=+.                                        
+      ..::::..:-+: .=@@@*==----=-%@@@@%:..*..=...-.::::+-.                                          
+      .-.....-*--. .:@@@#++*==--*@@@@+...*%.:=...-:::-:.                                            
+     .-......-:%...:%@@@@@@=--+@@@@@@*-:###.--...:=-=.                                              
+    .=......:-+:.++=--+@@@@#%**%@@@@+.-.#-#.=:...:=-..                                              
+    =-.....:=-@+@---::*@@@#%##%@@@@@-.-::.+.+:....=-                                                
+    -....:-=:*#:+----:+@@###+@#%@%*:..=...---:.:-::*     
 
-</p>
- 
-<div align="center">
- 
-⋆｡°✩ 𝐂ursando Informática para Internet na ETEC Cidade Tiradentes ⋆｡°✩
- 
-⋆｡°✩ 𝐀prendendo HTML, CSS, JavaScript, MySQL ⋆｡°✩
- 
-⋆｡°✩ 𝐂ontate-me no email: freitasguilierme0525@gmail.com.br⋆｡°✩
- 
 </div>
- 
-<h3 align="center"> Linguagens ᕙ( •̀ ᗜ •́ )ᕗ </h3>
- 
+<h1 align="center"> ‧₊˚✩ ₊˚💻⊹Tecnologias </h1>
 <div align="center">
-<img src="https://devicons.io/devicons/icons/javascript.svg" width=50px>
-<img src="https://devicons.io/devicons/icons/mysql.svg" width=50px>
-<img src="https://devicons.io/devicons/icons/html-5.svg" width=50px>
-<img src="https://devicons.io/devicons/icons/css.svg" width=50px>
-</div>
- 
-<h3 align="center">Ferramentas ( ദ്ദി˙ᗜ˙)</h3>
- 
-<div align="center">
-<img src="https://devicons.io/devicons/icons/github-icon.svg" width=50px>
-<img src="https://devicons.io/devicons/icons/mysql.svg" width=50px>
+ <img src="https://devicons.io/devicons/icons/javascript.svg" width=50px>
+ <img src="https://devicons.io/devicons/icons/mysql.svg" width=50px>
+ <img src="https://devicons.io/devicons/icons/html-5.svg" width=50px>
+ <img src="https://devicons.io/devicons/icons/css.svg" width=50px>
+ <img src="https://devicons.io/devicons/icons/github-icon.svg" width=50px>
+ <img src="https://devicons.io/devicons/icons/mysql.svg" width=50px>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" width=50px />
  <img src="https://devicons.io/devicons/icons/visual-studio-code.svg" width=50px>
 </div>
+
+<h1 align="center"> Sobre mim🎸⋆⭒˚.⋆ </h1>
