@@ -35,4 +35,13 @@
  <img src="https://devicons.io/devicons/icons/visual-studio-code.svg" width=50px>
 </div>
 
+<div align="center">
+  <img src="./assets/rcre.jpg" width="300px">
+</div>
 <h1 align="center"> Sobre mim🎸⋆⭒˚.⋆ </h1>
+
+<div align="center">
+  Eu sou Guilherme, toco guitarra haha <br>
+  Estudo na ETEC Cidade Tiradentes, cursando Informática para Internet,<br> aprendendo JS, HTML, CSS, MySQL, Office.
+  Pretento conseguir trabalho nessas áreas!
+</div>
